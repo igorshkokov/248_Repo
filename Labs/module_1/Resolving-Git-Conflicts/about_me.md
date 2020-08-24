@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ABOUT ME:
 Igor
 
@@ -76,3 +77,13 @@ Anyone can see
 Nothing really matters - nothing really matters to me
 
 Anyway the wind blows...
+=======
+test test test
+about me point md
+
+UPDATE
+
+This is a big update to this file
+
+allons enfants de la patrieeeeeee
+>>>>>>> 5ce59981d5761ba7c49ce5cc315fd65b211de4b0
